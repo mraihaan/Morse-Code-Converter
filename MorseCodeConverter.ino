@@ -50,6 +50,4 @@ void loop(){
     } 
   }
   noTone(buzzer);
-  for(;;){
-  }
 }
