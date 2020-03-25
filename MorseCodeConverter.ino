@@ -1,3 +1,5 @@
+//Author: Mohammad Syed Raihaan
+
 //5 denotes ending of a morse code letter
 //7 indicates a pause between each blink/dash
 //1 means dash and 0 means dot
